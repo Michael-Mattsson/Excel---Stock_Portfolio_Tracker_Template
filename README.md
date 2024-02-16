@@ -6,7 +6,7 @@ Features
 
 Real-time Updates: Easily adjust and update prices and positions to reflect the latest market conditions.
 Financial Metrics: Track portfolio value, gains, and losses in real time, enabling users to make informed investment decisions.
-Inspiration: Inspired by this YouTube tutorial, the project aims to provide a user-friendly tool for managing stock portfolios.
+Inspiration: Inspired by this YouTube tutorial - https://www.youtube.com/watch?v=PgjkG6Xjz6Y, the project aims to provide a user-friendly tool for managing stock portfolios.
 Excel Integration: Data is automatically sourced from Excel, providing a seamless experience for users familiar with the platform.
 
 Usage
